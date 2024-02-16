@@ -6,10 +6,13 @@ Chase of Shadows
 
 # Executive Summary
 "Chase of Shadows" is a fast-paced adventure game where you, the player, have fallen into a network of underground caverns. Equipped with only a mystical Light Wand, you must navigate the labyrinth while evading shadow creatures attracted to light. The game combines elements of horror and adventure, utilizing light and darkness to prey on the fear of the unknown. As you try to reach the cave’s exit, you may pick up light resources along the way, using them sparingly to illuminate pathways without attracting enemies.
+![Gameplay](shadows.JPG)
 
 ## GAME Design - CREATIVE
 ### High Concept
 "Chase of Shadows" is a game where players must escape monsters and solve logical puzzles in a cavern environment. Using light magic, players can navigate the caves and and seek an escape.
+
+![Gameplay](shadows2.JPG)
 
 ### Design Goals
 #### Main Design Features
