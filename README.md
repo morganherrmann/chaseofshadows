@@ -5,7 +5,7 @@ Chase of Shadows
 [DEMO VIDEO](https://drive.google.com/file/d/1Y23Olu2M5ArhwkLnJf2ieeK0cO1RLJOS/view?usp=sharing)
 
 # Executive Summary
-"Chase of Shadows" is a fast-paced adventure game where you, the player, have fallen into a network of underground caverns. Equipped with only a mystical Light Wand, you must navigate the labyrinth while evading shadow creatures attracted to light. The game combines elements of horror and adventure, utilizing light and darkness to prey on the fear of the unknown. As you try to reach the cave’s exit, you may pick up light resources along the way, using them sparingly to illuminate pathways without attracting enemies.
+"Chase of Shadows" is a fast-paced adventure game where you, the player, have fallen into a network of underground caverns. Equipped with only a mystical Light Wand, you must navigate the labyrinth while evading shadow creatures attracted to light. The game combines elements of horror and adventure, utilizing light and darkness to prey on the fear of the unknown. As players attempt to reach the cave’s exit, they may pick up light resources to navigate the corridors, but must use them sparingly to avoid attracting enemies.
 ![Gameplay](shadows.JPG)
 
 ## GAME Design - CREATIVE
@@ -57,3 +57,18 @@ Chase of Shadows
 - **Game environment:**
   - Players are confined to a cavern structure and must navigate allowed pathways.
   - Players must weigh the tradeoff between darkness and difficulty navigating or light and attracting enemies.
+ 
+  - ### Design Assumptions
+
+#### Hardware
+- **Minimum hardware configuration:** 
+  - Operating System: Windows 10 64-bit version 1909 revision .1350 or higher, or versions 2004 and 20H2 revision .789 or higher
+  - Processor: Quad-core Intel or AMD, 2.5 GHz or faster
+  - Memory: 8GB RAM
+  - DirectX: DirectX 12 compatible graphics card with the latest drivers
+
+#### Software
+- **Version required:**
+  - Unreal Engine: >= 5.3.0
+  - DirectX: >= 12
+  - Windows: 10, 11
